@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.mydatasiswa
 
 import org.junit.Test
 
